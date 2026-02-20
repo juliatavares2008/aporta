@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+  font-family:"Stay Pixel DEMO";
+  src: url("../stay_pixel/Stay Pixel DEMO.ttf");
+}
+.titulo {
+    text-align: center;
+	font-size: 159px;
+    font-family: 'Stay Pixel DEMO';
+	margin-top: 45px;
+}
+
+.teladejogo {
+	border-width: 10px;
+	border-style: dashed;
+	border-color: black;
+	width: 800px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -70px;
+	text-align: center;
+	font-weight: 500;
+	font-size:100px;
+	background-color: white;
+}
+
+.play {
+	width: 180px;
+	margin-top:  190px;
+}
+
+.restart {
+	width: 180px;
+	margin-top:  190px;
+}
+
+.portaa {
+	height: 200px;
+	margin-top: 20px;
+}
+
+.portab {
+	height: 200px;
+	margin-top: 20px;
+}
+
+.portac {
+	height: 200px;
+	margin-top: 20px;
+}
+
+.intro {
+    text-align: center;
+	font-size: 36px;
+    font-family: 'Stay Pixel DEMO';
+	margin-top: 110px;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.comecarjogo {
+	text-align: center;
+	font-size: 40px;
+    font-family: 'Stay Pixel DEMO';
+	margin-bottom: 40px;
+}
+
+.salanumero {
+	font-size: 30px;
+    font-family: 'Stay Pixel DEMO';
+	margin-left: 10px;
+	text-align: left;
+	margin-top: -50px;
+}
+
+button {
+	background: none;
+	border: none;
+}
+
+.player {
+	width: 100px;
+	margin-top:40px;
+}
